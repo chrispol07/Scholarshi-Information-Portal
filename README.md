@@ -1,1 +1,1 @@
-# Scholarshi-Information-Portal
+# Scholarship-Information-Portal
